@@ -5,5 +5,5 @@ TODO:
 - data model
 - flows
 - install libraries (node, w3, express, nodemon)
-- define MPP
+- define MPP (backend, front end)
 - TDD MPP
