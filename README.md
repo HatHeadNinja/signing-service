@@ -2,6 +2,7 @@
 Backend service to sign and validate signatures
 
 TODO:
+- learning & research (tutorials, experiments)
 - data model
 - flows
 - wireframes
