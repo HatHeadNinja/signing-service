@@ -3,7 +3,7 @@ Backend service to sign and validate signatures
 
 TODO:
 - plan outline
-- research (tutorials, experiments, blogs, Jacob Tucker)
+- research (tutorials, experiments, blogs, Jacob Tucker, Erin)
 - data model
 - flows
 - wireframes
